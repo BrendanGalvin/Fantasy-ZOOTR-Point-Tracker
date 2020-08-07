@@ -1,7 +1,6 @@
 C:\Users\codef\source\repos\FantasyZOOTR\FantasyZOOTR\bin\Debug\FantasyZOOTR.exe.config
 C:\Users\codef\source\repos\FantasyZOOTR\FantasyZOOTR\bin\Debug\FantasyZOOTR.exe
 C:\Users\codef\source\repos\FantasyZOOTR\FantasyZOOTR\bin\Debug\FantasyZOOTR.pdb
-C:\Users\codef\source\repos\FantasyZOOTR\FantasyZOOTR\obj\Debug\FantasyZOOTR.csprojAssemblyReference.cache
 C:\Users\codef\source\repos\FantasyZOOTR\FantasyZOOTR\obj\Debug\FantasyZOOTR.Form1.resources
 C:\Users\codef\source\repos\FantasyZOOTR\FantasyZOOTR\obj\Debug\FantasyZOOTR.Properties.Resources.resources
 C:\Users\codef\source\repos\FantasyZOOTR\FantasyZOOTR\obj\Debug\FantasyZOOTR.csproj.GenerateResource.cache
