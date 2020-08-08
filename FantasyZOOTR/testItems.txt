@@ -1,0 +1,4 @@
+Hookshot, 15, 5
+Bottle, 5, 3, 1
+Recovery Heart, -2
+Bluepee, -1

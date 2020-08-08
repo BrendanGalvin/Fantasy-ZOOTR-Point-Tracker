@@ -7,3 +7,4 @@ C:\Users\codef\source\repos\FantasyZOOTR\FantasyZOOTR\obj\Debug\FantasyZOOTR.csp
 C:\Users\codef\source\repos\FantasyZOOTR\FantasyZOOTR\obj\Debug\FantasyZOOTR.csproj.CoreCompileInputs.cache
 C:\Users\codef\source\repos\FantasyZOOTR\FantasyZOOTR\obj\Debug\FantasyZOOTR.exe
 C:\Users\codef\source\repos\FantasyZOOTR\FantasyZOOTR\obj\Debug\FantasyZOOTR.pdb
+C:\Users\codef\source\repos\FantasyZOOTR\FantasyZOOTR\obj\Debug\FantasyZOOTR.csprojAssemblyReference.cache
